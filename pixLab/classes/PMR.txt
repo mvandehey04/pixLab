@@ -1,0 +1,14 @@
+PROJECT TITLE: 06_PixLab
+PURPOSE OF PROJECT: Learn how pictures can change and interact with code.
+VERSION or DATE: 4/7/22
+AUTHOR: Madeline Vande Hey
+
+***PMR***************************************************************************
+<+s>: I found it was easy to write the getCount and getLargest methods because
+they were similar to methods that I have written for other projects earlier
+in the class.
+
+<-s>: The getColTotal method took a little bit to figure out because a nested
+for-loop was not needed to add all of the values of one column.
+*********************************************************************************
+In the future: I will work on nested for loops, specifically with 2D arrays.
